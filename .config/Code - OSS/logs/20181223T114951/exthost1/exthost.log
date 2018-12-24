@@ -1,0 +1,26 @@
+[2018-12-23 11:49:53.117] [exthost] [info] extension host started
+[2018-12-23 11:49:53.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:49:53.135] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2018-12-23 11:49:53.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:49:53.143] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-12-23 11:49:53.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:49:53.160] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-12-23 11:49:53.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:49:53.256] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2018-12-23 11:49:53.262] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:49:53.262] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.6.2/extensions/material.theme.config.js
+[2018-12-23 11:49:53.276] [exthost] [info] eager extensions activated
+[2018-12-23 11:50:24.216] [exthost] [info] extension host started
+[2018-12-23 11:50:24.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:50:24.234] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2018-12-23 11:50:24.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:50:24.241] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-12-23 11:50:24.257] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:50:24.257] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-12-23 11:50:24.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:50:24.351] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2018-12-23 11:50:24.356] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-12-23 11:50:24.356] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.6.2/extensions/material.theme.config.js
+[2018-12-23 11:50:24.368] [exthost] [info] eager extensions activated
+[2018-12-23 11:50:46.418] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2018-12-23 11:50:46.418] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/ms-vscode.go-0.8.0/out/src/goMain

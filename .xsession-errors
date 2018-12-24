@@ -1,0 +1,82 @@
+E: [pulseaudio] pid.c: Daemon already running.
+E: [pulseaudio] main.c: pa_pid_file_create() failed.
+/bin/sh: ff-theme-util: command not found
+/bin/sh: start_fontawesomeconky: command not found
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(pamac-tray:760): Gdk-CRITICAL **: 09:55:50.619: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+/proc/self/exe: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /proc/self/exe)
+[1112:1112:1224/100328.775001:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+[1162:1162:1224/100453.931768:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.931878:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.931941:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932005:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932049:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932092:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932137:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932191:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932239:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932284:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932305:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932335:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932370:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932390:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932408:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932428:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932446:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932465:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932483:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932502:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932520:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932538:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932556:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932574:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932607:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932627:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932645:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932664:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932681:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932700:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932719:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932738:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932755:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932774:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932792:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932811:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932844:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932864:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932882:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932901:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932919:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932939:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932956:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.932975:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.932993:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.933012:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.933029:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.933048:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.933114:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.933136:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1162:1162:1224/100453.933154:ERROR:gles2_cmd_decoder.cc(17611)] [.BrowserCompositor-0x1fdbdada0000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1162:1162:1224/100453.933174:ERROR:gles2_cmd_decoder.cc(10219)] [.BrowserCompositor-0x1fdbdada0000]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1112:1112:1224/100932.115421:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/100933.999088:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/100935.883024:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/100937.766364:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101031.721058:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+[1112:1112:1224/101033.604557:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101035.488386:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101036.973028:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+[1112:1112:1224/101037.372753:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101038.856706:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101039.257017:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101040.740106:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101042.624815:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1112:1112:1224/101044.509598:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+unable to connect to the rxvt-unicode daemon: Connection refused
+[1112:1112:1224/103055.569669:ERROR:textfield.cc(1777)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()

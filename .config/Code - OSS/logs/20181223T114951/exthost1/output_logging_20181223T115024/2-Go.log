@@ -1,0 +1,38 @@
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go5iO4jS/go-code-check .
+
+Installing 12 tools at /home/john/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  dlv
+  gocode-gomod
+  godef
+  godef-gomod
+  goreturns
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing golang.org/x/tools/cmd/gorename SUCCEEDED
+Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/ianthehat/godef SUCCEEDED
+Installing github.com/sqs/goreturns SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+/home/john/go-workspace/src>Finished running tool: /home/john/go/bin/golint
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go5iO4jS/go-code-check .
+

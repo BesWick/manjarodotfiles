@@ -1,0 +1,47 @@
+2018/12/23-11:04:48.255 69b Reusing MANIFEST /home/john/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/12/23-11:04:48.255 69b Recovering log #6
+2018/12/23-11:04:48.256 69b Level-0 table #9: started
+2018/12/23-11:04:48.266 69b Level-0 table #9: 17817 bytes OK
+2018/12/23-11:04:48.267 69b Delete type=0 #6
+2018/12/23-11:10:16.872 9c5 Level-0 table #12: started
+2018/12/23-11:10:16.877 9c5 Level-0 table #12: 19119 bytes OK
+2018/12/23-11:10:16.879 9c5 Delete type=0 #10
+2018/12/23-11:16:37.229 9c5 Level-0 table #14: started
+2018/12/23-11:16:37.233 9c5 Level-0 table #14: 17982 bytes OK
+2018/12/23-11:16:37.234 9c5 Delete type=0 #11
+2018/12/23-11:22:51.868 9c5 Level-0 table #16: started
+2018/12/23-11:22:51.870 9c5 Level-0 table #16: 22239 bytes OK
+2018/12/23-11:22:51.871 9c5 Delete type=0 #13
+2018/12/23-11:22:51.871 9c5 Compacting 4@0 + 1@1 files
+2018/12/23-11:22:51.883 9c5 Generated table #17@0: 145 keys, 52701 bytes
+2018/12/23-11:22:51.883 9c5 Compacted 4@0 + 1@1 files => 52701 bytes
+2018/12/23-11:22:51.885 9c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/23-11:22:51.885 9c5 Delete type=2 #9
+2018/12/23-11:22:51.886 9c5 Delete type=2 #7
+2018/12/23-11:22:51.886 9c5 Delete type=2 #14
+2018/12/23-11:22:51.886 9c5 Delete type=2 #12
+2018/12/23-11:22:51.886 9c5 Delete type=2 #16
+2018/12/23-11:27:52.870 9c5 Level-0 table #19: started
+2018/12/23-11:27:52.875 9c5 Level-0 table #19: 24101 bytes OK
+2018/12/23-11:27:52.877 9c5 Delete type=0 #15
+2018/12/23-11:31:24.128 9c5 Level-0 table #21: started
+2018/12/23-11:31:24.132 9c5 Level-0 table #21: 20261 bytes OK
+2018/12/23-11:31:24.133 9c5 Delete type=0 #18
+2018/12/23-11:54:00.671 9c5 Level-0 table #23: started
+2018/12/23-11:54:00.678 9c5 Level-0 table #23: 18343 bytes OK
+2018/12/23-11:54:00.679 9c5 Delete type=0 #20
+2018/12/23-19:36:55.363 9c5 Level-0 table #25: started
+2018/12/23-19:36:55.370 9c5 Level-0 table #25: 19819 bytes OK
+2018/12/23-19:36:55.371 9c5 Delete type=0 #22
+2018/12/23-19:36:55.371 9c5 Compacting 4@0 + 1@1 files
+2018/12/23-19:36:55.393 9c5 Generated table #26@0: 353 keys, 114056 bytes
+2018/12/23-19:36:55.393 9c5 Compacted 4@0 + 1@1 files => 114056 bytes
+2018/12/23-19:36:55.394 9c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/23-19:36:55.394 9c5 Delete type=2 #25
+2018/12/23-19:36:55.395 9c5 Delete type=2 #17
+2018/12/23-19:36:55.395 9c5 Delete type=2 #23
+2018/12/23-19:36:55.395 9c5 Delete type=2 #21
+2018/12/23-19:36:55.395 9c5 Delete type=2 #19
+2018/12/23-21:35:46.615 9c5 Level-0 table #28: started
+2018/12/23-21:35:46.618 9c5 Level-0 table #28: 29138 bytes OK
+2018/12/23-21:35:46.619 9c5 Delete type=0 #24

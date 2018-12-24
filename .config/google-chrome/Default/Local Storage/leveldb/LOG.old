@@ -1,0 +1,57 @@
+2018/12/23-11:04:48.244 69b Reusing MANIFEST leveldb/MANIFEST-000001
+2018/12/23-11:04:48.245 69b Recovering log #4
+2018/12/23-11:04:48.245 69b Reusing old log leveldb/000004.log 
+2018/12/23-11:07:20.004 87c Level-0 table #8: started
+2018/12/23-11:07:20.012 87c Level-0 table #8: 31062 bytes OK
+2018/12/23-11:07:20.013 87c Delete type=0 #4
+2018/12/23-11:28:51.279 b3a Level-0 table #10: started
+2018/12/23-11:28:51.281 b3a Level-0 table #10: 19668 bytes OK
+2018/12/23-11:28:51.282 b3a Delete type=0 #7
+2018/12/23-12:27:07.569 1de6 Level-0 table #12: started
+2018/12/23-12:27:07.573 1de6 Level-0 table #12: 15650 bytes OK
+2018/12/23-12:27:07.574 1de6 Delete type=0 #9
+2018/12/23-19:16:18.193 2791 Level-0 table #14: started
+2018/12/23-19:16:18.200 2791 Level-0 table #14: 16909 bytes OK
+2018/12/23-19:16:18.202 2791 Delete type=0 #11
+2018/12/23-21:04:34.094 2aaf Level-0 table #16: started
+2018/12/23-21:04:34.096 2aaf Level-0 table #16: 15822 bytes OK
+2018/12/23-21:04:34.098 2aaf Delete type=0 #13
+2018/12/23-21:04:34.098 2aaf Compacting 4@0 + 1@1 files
+2018/12/23-21:04:34.139 2aaf Generated table #17@0: 378 keys, 38997 bytes
+2018/12/23-21:04:34.139 2aaf Compacted 4@0 + 1@1 files => 38997 bytes
+2018/12/23-21:04:34.140 2aaf compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/23-21:04:34.141 2aaf Delete type=2 #8
+2018/12/23-21:04:34.141 2aaf Delete type=2 #14
+2018/12/23-21:04:34.142 2aaf Delete type=2 #10
+2018/12/23-21:04:34.142 2aaf Delete type=2 #12
+2018/12/23-21:04:34.142 2aaf Delete type=2 #16
+2018/12/23-21:06:08.948 2aaf Level-0 table #19: started
+2018/12/23-21:06:08.952 2aaf Level-0 table #19: 14407 bytes OK
+2018/12/23-21:06:08.954 2aaf Delete type=0 #15
+2018/12/23-21:06:33.916 2aaf Level-0 table #21: started
+2018/12/23-21:06:33.920 2aaf Level-0 table #21: 14005 bytes OK
+2018/12/23-21:06:33.922 2aaf Delete type=0 #18
+2018/12/23-21:13:44.974 2c2e Level-0 table #23: started
+2018/12/23-21:13:44.978 2c2e Level-0 table #23: 13185 bytes OK
+2018/12/23-21:13:44.979 2c2e Delete type=0 #20
+2018/12/23-21:19:09.101 2dac Level-0 table #25: started
+2018/12/23-21:19:09.104 2dac Level-0 table #25: 12530 bytes OK
+2018/12/23-21:19:09.106 2dac Delete type=0 #22
+2018/12/23-21:19:09.106 2dac Compacting 4@0 + 1@1 files
+2018/12/23-21:19:09.125 2dac Generated table #26@0: 389 keys, 39696 bytes
+2018/12/23-21:19:09.125 2dac Compacted 4@0 + 1@1 files => 39696 bytes
+2018/12/23-21:19:09.126 2dac compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/23-21:19:09.126 2dac Delete type=2 #25
+2018/12/23-21:19:09.127 2dac Delete type=2 #17
+2018/12/23-21:19:09.127 2dac Delete type=2 #23
+2018/12/23-21:19:09.127 2dac Delete type=2 #21
+2018/12/23-21:19:09.127 2dac Delete type=2 #19
+2018/12/23-21:30:08.927 2e61 Level-0 table #28: started
+2018/12/23-21:30:08.956 2e61 Level-0 table #28: 16031 bytes OK
+2018/12/23-21:30:08.958 2e61 Delete type=0 #24
+2018/12/23-21:31:55.842 2e70 Level-0 table #30: started
+2018/12/23-21:31:55.846 2e70 Level-0 table #30: 16738 bytes OK
+2018/12/23-21:31:55.847 2e70 Delete type=0 #27
+2018/12/23-21:50:39.134 2ea3 Level-0 table #32: started
+2018/12/23-21:50:39.143 2ea3 Level-0 table #32: 15346 bytes OK
+2018/12/23-21:50:39.144 2ea3 Delete type=0 #29

@@ -1,0 +1,37 @@
+2018/12/24-10:03:29.109 509 Reusing MANIFEST /home/john/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/12/24-10:03:29.109 509 Recovering log #27
+2018/12/24-10:03:29.110 509 Reusing old log /home/john/.config/google-chrome/Default/Session Storage/000027.log 
+2018/12/24-10:04:42.141 6d9 Level-0 table #31: started
+2018/12/24-10:04:42.145 6d9 Level-0 table #31: 17015 bytes OK
+2018/12/24-10:04:42.147 6d9 Delete type=0 #27
+2018/12/24-10:12:35.839 6d9 Compacting 2@0 + 1@1 files
+2018/12/24-10:12:35.843 6d9 Generated table #32@0: 501 keys, 147301 bytes
+2018/12/24-10:12:35.843 6d9 Compacted 2@0 + 1@1 files => 147301 bytes
+2018/12/24-10:12:35.844 6d9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/24-10:12:35.844 6d9 Delete type=2 #31
+2018/12/24-10:12:35.844 6d9 Delete type=2 #28
+2018/12/24-10:12:35.844 6d9 Delete type=2 #26
+2018/12/24-10:16:34.944 6d9 Level-0 table #34: started
+2018/12/24-10:16:34.948 6d9 Level-0 table #34: 18979 bytes OK
+2018/12/24-10:16:34.949 6d9 Delete type=0 #30
+2018/12/24-10:24:35.046 6d9 Level-0 table #36: started
+2018/12/24-10:24:35.061 6d9 Level-0 table #36: 19747 bytes OK
+2018/12/24-10:24:35.063 6d9 Delete type=0 #33
+2018/12/24-10:27:00.997 6d9 Level-0 table #38: started
+2018/12/24-10:27:01.007 6d9 Level-0 table #38: 17913 bytes OK
+2018/12/24-10:27:01.009 6d9 Delete type=0 #35
+2018/12/24-10:41:47.598 6d9 Level-0 table #40: started
+2018/12/24-10:41:47.601 6d9 Level-0 table #40: 18364 bytes OK
+2018/12/24-10:41:47.605 6d9 Delete type=0 #37
+2018/12/24-10:41:47.605 6d9 Compacting 4@0 + 1@1 files
+2018/12/24-10:41:47.638 6d9 Generated table #41@0: 669 keys, 136386 bytes
+2018/12/24-10:41:47.638 6d9 Compacted 4@0 + 1@1 files => 136386 bytes
+2018/12/24-10:41:47.640 6d9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/24-10:41:47.640 6d9 Delete type=2 #32
+2018/12/24-10:41:47.641 6d9 Delete type=2 #38
+2018/12/24-10:41:47.641 6d9 Delete type=2 #36
+2018/12/24-10:41:47.641 6d9 Delete type=2 #34
+2018/12/24-10:41:47.641 6d9 Delete type=2 #40
+2018/12/24-10:42:17.467 6d9 Level-0 table #43: started
+2018/12/24-10:42:17.481 6d9 Level-0 table #43: 23395 bytes OK
+2018/12/24-10:42:17.482 6d9 Delete type=0 #39

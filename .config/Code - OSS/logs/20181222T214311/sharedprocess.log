@@ -1,0 +1,45 @@
+[2018-12-22 21:43:14.749] [sharedprocess] [info] main {"machineId":"b6a487adede48ec6b37b5df91bd610edcac9b0e428419af82c8f3ede5a2787ee"}
+[2018-12-22 21:43:14.773] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:43:14.792] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:43:14.792] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:43:14.799] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:43:14.839] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:43:14.842] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:43:14.844] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:43:54.752] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-12-22 21:44:37.479] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:44:37.479] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:44:37.548] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:44:37.551] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:44:37.678] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:45:12.308] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:45:12.408] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:45:12.411] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:45:12.413] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:45:12.472] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:12.474] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:12.476] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:23.068] [sharedprocess] [info] Installing extension: Go
+[2018-12-22 21:45:23.069] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-22 21:45:23.778] [sharedprocess] [info] Downloaded extension: Go /tmp/af18a695-5abc-4410-8a93-0d01d211c858
+[2018-12-22 21:45:24.774] [sharedprocess] [info] Extracted extension to /home/john/.vscode-oss/extensions/.ms-vscode.go-0.8.0: ms-vscode.go-0.8.0
+[2018-12-22 21:45:24.774] [sharedprocess] [info] Renamed to /home/john/.vscode-oss/extensions/ms-vscode.go-0.8.0
+[2018-12-22 21:45:24.774] [sharedprocess] [info] Installation completed. ms-vscode.go-0.8.0
+[2018-12-22 21:45:24.790] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2018-12-22 21:45:24.913] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:45:24.937] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:27.486] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:45:27.489] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:45:27.525] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:45:27.526] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:45:27.528] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:45:27.612] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:27.631] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:27.633] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:27.635] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-22 21:45:27.811] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:50:27.832] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 21:55:27.844] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 22:00:27.853] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 22:05:27.872] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-22 22:10:27.879] [sharedprocess] [info] Scanned user extensions: 2

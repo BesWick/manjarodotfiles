@@ -1,0 +1,52 @@
+[2018-12-22 21:43:13.029] [renderer1] [info] no standard startup: not just one text editor
+[2018-12-22 21:44:03.361] [renderer1] [error] Error processing argument at index 11, conversion failure from undefined: TypeError: Error processing argument at index 11, conversion failure from undefined
+    at Object.showMessageBox (/usr/lib/electron2/resources/electron.asar/browser/api/dialog.js:277:20)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:476:461
+    at new n.Class.derive._oncancel (/usr/lib/code/out/vs/code/electron-main/main.js:108:460)
+    at Object.factory (/usr/lib/code/out/vs/code/electron-main/main.js:476:423)
+    at t.e.consume (/usr/lib/code/out/vs/code/electron-main/main.js:134:624)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:134:411
+    at new n.Class.derive._oncancel (/usr/lib/code/out/vs/code/electron-main/main.js:108:460)
+    at t.e.queue (/usr/lib/code/out/vs/code/electron-main/main.js:134:332)
+    at e.showMessageBox (/usr/lib/code/out/vs/code/electron-main/main.js:476:399)
+    at e.doExtractPathsFromAPI (/usr/lib/code/out/vs/code/electron-main/main.js:460:254)
+    at e.getPathsToOpen (/usr/lib/code/out/vs/code/electron-main/main.js:459:211)
+    at e.open (/usr/lib/code/out/vs/code/electron-main/main.js:453:185)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:474:967
+    at Object.v [as _notify] (/usr/lib/code/out/vs/code/electron-main/main.js:101:572)
+    at Object.enter (/usr/lib/code/out/vs/code/electron-main/main.js:104:924)
+    at n.Class.derive._oncancel._run (/usr/lib/code/out/vs/code/electron-main/main.js:106:790)
+    at n.Class.derive._oncancel._completed (/usr/lib/code/out/vs/code/electron-main/main.js:106:231)
+    at Object.v [as _notify] (/usr/lib/code/out/vs/code/electron-main/main.js:101:572)
+    at Object.enter (/usr/lib/code/out/vs/code/electron-main/main.js:104:924)
+    at n.Class.derive._oncancel._run (/usr/lib/code/out/vs/code/electron-main/main.js:106:790)
+    at n.Class.derive._oncancel._completed (/usr/lib/code/out/vs/code/electron-main/main.js:106:231)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:477:101
+    at Function.wrappedCallback (/usr/lib/electron2/resources/electron.asar/browser/api/dialog.js:130:24)
+[2018-12-22 21:44:14.457] [renderer1] [error] Error processing argument at index 11, conversion failure from undefined: TypeError: Error processing argument at index 11, conversion failure from undefined
+    at Object.showMessageBox (/usr/lib/electron2/resources/electron.asar/browser/api/dialog.js:277:20)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:476:461
+    at new n.Class.derive._oncancel (/usr/lib/code/out/vs/code/electron-main/main.js:108:460)
+    at Object.factory (/usr/lib/code/out/vs/code/electron-main/main.js:476:423)
+    at t.e.consume (/usr/lib/code/out/vs/code/electron-main/main.js:134:624)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:134:411
+    at new n.Class.derive._oncancel (/usr/lib/code/out/vs/code/electron-main/main.js:108:460)
+    at t.e.queue (/usr/lib/code/out/vs/code/electron-main/main.js:134:332)
+    at e.showMessageBox (/usr/lib/code/out/vs/code/electron-main/main.js:476:399)
+    at e.doExtractPathsFromAPI (/usr/lib/code/out/vs/code/electron-main/main.js:460:254)
+    at e.getPathsToOpen (/usr/lib/code/out/vs/code/electron-main/main.js:459:211)
+    at e.open (/usr/lib/code/out/vs/code/electron-main/main.js:453:185)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:474:967
+    at Object.v [as _notify] (/usr/lib/code/out/vs/code/electron-main/main.js:101:572)
+    at Object.enter (/usr/lib/code/out/vs/code/electron-main/main.js:104:924)
+    at n.Class.derive._oncancel._run (/usr/lib/code/out/vs/code/electron-main/main.js:106:790)
+    at n.Class.derive._oncancel._completed (/usr/lib/code/out/vs/code/electron-main/main.js:106:231)
+    at Object.v [as _notify] (/usr/lib/code/out/vs/code/electron-main/main.js:101:572)
+    at Object.enter (/usr/lib/code/out/vs/code/electron-main/main.js:104:924)
+    at n.Class.derive._oncancel._run (/usr/lib/code/out/vs/code/electron-main/main.js:106:790)
+    at n.Class.derive._oncancel._completed (/usr/lib/code/out/vs/code/electron-main/main.js:106:231)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:477:101
+    at Function.wrappedCallback (/usr/lib/electron2/resources/electron.asar/browser/api/dialog.js:130:24)
+[2018-12-22 21:44:37.674] [renderer1] [info] no standard startup: not just one text editor
+[2018-12-22 21:45:27.801] [renderer1] [info] no standard startup: not a new window
+[2018-12-22 22:08:48.177] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

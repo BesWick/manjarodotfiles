@@ -1,0 +1,34 @@
+/bin/sh: start_fontawesomeconky: command not found
+/bin/sh: ff-theme-util: command not found
+E: [pulseaudio] pid.c: Daemon already running.
+E: [pulseaudio] main.c: pa_pid_file_create() failed.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(pamac-tray:759): Gdk-CRITICAL **: 10:04:52.953: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+/usr/share/spotify/spotify: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /usr/share/spotify/spotify)
+/proc/self/exe: /usr/lib/libcurl-gnutls.so.4: no version information available (required by /proc/self/exe)
+[1644:1644:1223/110447.989549:ERROR:x11_input_method_context_impl_gtk.cc(144)] Not implemented reached in virtual void libgtkui::X11InputMethodContextImplGtk::SetSurroundingText(const base::string16 &, const gfx::Range &)
+unable to connect to the rxvt-unicode daemon: Connection refused
+
+(pcmanfm:1339): GLib-CRITICAL **: 11:06:14.417: Source ID 51 was not found when attempting to remove it
+[1644:1644:1223/110642.583494:ERROR:textfield.cc(1777)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+[1644:1644:1223/112305.839972:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1644:1644:1223/112311.859175:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1644:1644:1223/112319.796663:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+[1644:1644:1223/112320.646111:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+
+(mousepad:3409): Gtk-WARNING **: 11:40:22.330: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:3409): Gtk-WARNING **: 11:40:22.330: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:3409): Gtk-WARNING **: 11:40:22.330: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:3409): Gtk-WARNING **: 11:40:22.330: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:3409): Gtk-WARNING **: 11:40:22.330: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+[../i3-4.16/../i3-4.16/i3bar/src/child.c:366] ERROR: stdin: received EOF
+[../i3-4.16/../i3-4.16/i3bar/src/child.c:490] ERROR: Child (pid: 790) unexpectedly exited with status 0

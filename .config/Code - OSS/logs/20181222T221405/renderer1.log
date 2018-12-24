@@ -1,0 +1,23 @@
+[2018-12-22 22:14:06.769] [renderer1] [info] no standard startup: not the explorer viewlet
+[2018-12-22 22:16:57.846] [renderer1] [error] Model is disposed!: Error: Model is disposed!
+    at o._assertNotDisposed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1180:69)
+    at o.findMatches (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1191:495)
+    at t.findValueMatches (file:///usr/lib/code/out/vs/workbench/workbench.main.js:3856:533)
+    at e.searchModel.t.filterSettings.i [as valuesMatcher] (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5717:199)
+    at e._doFindMatchesInSetting (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5725:689)
+    at e._findMatchesInSetting (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5723:152)
+    at new e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5722:974)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:5717:152
+    at t.filterSettings (file:///usr/lib/code/out/vs/workbench/workbench.main.js:3854:818)
+    at e.searchModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5717:72)
+    at t._filterOrSearchPreferencesModel (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4118:912)
+    at t._filterOrSearchPreferences (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4118:723)
+    at t.filterOrSearchPreferences (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4116:104)
+    at t.localFilterPreferences (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4115:917)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:4109:545
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:214:646
+    at Object.g [as _notify] (file:///usr/lib/code/out/vs/workbench/workbench.main.js:162:971)
+    at Object.enter (file:///usr/lib/code/out/vs/workbench/workbench.main.js:166:277)
+    at n.Class.derive._oncancel._run (file:///usr/lib/code/out/vs/workbench/workbench.main.js:168:100)
+    at n.Class.derive._oncancel._completed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:167:559)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:214:705

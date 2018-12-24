@@ -1,0 +1,58 @@
+/home/john/go/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-gopX80ae/go-code-check 
+
+/home/john/go/src>Finished running tool: /usr/bin/go vet ./...
+
+Installing 1 tool at /home/john/go/bin
+  goreturns
+
+Installing 1 tool at /home/john/go/bin
+  goreturns
+
+Installing github.com/sqs/goreturns SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+Installing github.com/sqs/goreturns SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+/home/john/go/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-gopX80ae/go-code-check 
+
+/home/john/go/src>Finished running tool: /usr/bin/go vet ./...
+/home/john/go/src/golang.org/x/tools/cmd/html2article/conv.go:21: cannot find package "golang.org/x/net/html" in any of:
+/home/john/go/src/golang.org/x/tools/cmd/html2article/conv.go:22: cannot find package "golang.org/x/net/html/atom" in any of:
+/home/john/go/src/golang.org/x/tools/playground/socket/socket.go:37: cannot find package "golang.org/x/net/websocket" in any of:
+
+Installing 11 tools at /home/john/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  dlv
+  gocode-gomod
+  godef
+  godef-gomod
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing golang.org/x/tools/cmd/gorename SUCCEEDED
+Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/ianthehat/godef SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+/home/john/go/src>Finished running tool: /home/john/go/bin/golint
+
+/home/john/go/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-gopX80ae/go-code-check 
+
+/home/john/go/src>Finished running tool: /usr/bin/go vet ./...
+/home/john/go/src/golang.org/x/tools/cmd/html2article/conv.go:21: cannot find package "golang.org/x/net/html" in any of:
+/home/john/go/src/golang.org/x/tools/cmd/html2article/conv.go:22: cannot find package "golang.org/x/net/html/atom" in any of:
+/home/john/go/src/golang.org/x/tools/playground/socket/socket.go:37: cannot find package "golang.org/x/net/websocket" in any of:
+

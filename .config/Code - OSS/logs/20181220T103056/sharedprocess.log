@@ -1,0 +1,93 @@
+[2018-12-20 10:30:59.526] [sharedprocess] [info] main {"machineId":"b6a487adede48ec6b37b5df91bd610edcac9b0e428419af82c8f3ede5a2787ee"}
+[2018-12-20 10:30:59.548] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:30:59.558] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:30:59.559] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:30:59.565] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:30:59.610] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:30:59.614] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:30:59.615] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:31:08.684] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:31:33.748] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:31:33.838] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:31:33.863] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:31:39.529] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-12-20 10:35:59.570] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:40:59.573] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:45:59.577] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:50:23.813] [sharedprocess] [info] Installing extension: Material-theme
+[2018-12-20 10:50:23.814] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:50:23.985] [sharedprocess] [info] Downloaded extension: Material-theme /tmp/3de4ed49-082c-4a03-bea4-c6ae302d3c22
+[2018-12-20 10:50:24.015] [sharedprocess] [info] Extracted extension to /home/john/.vscode-oss/extensions/.zhuangtongfa.material-theme-2.18.1: zhuangtongfa.material-theme-2.18.1
+[2018-12-20 10:50:24.016] [sharedprocess] [info] Renamed to /home/john/.vscode-oss/extensions/zhuangtongfa.material-theme-2.18.1
+[2018-12-20 10:50:24.016] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme-2.18.1
+[2018-12-20 10:50:24.021] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2018-12-20 10:50:24.137] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:50:24.154] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:50:28.599] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:50:28.602] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:50:28.628] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:50:28.664] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:50:28.664] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:50:28.669] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:50:28.727] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:50:28.729] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:50:28.730] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:50:28.874] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:51:06.173] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:51:06.174] [sharedprocess] [info] Uninstalling extension: zhuangtongfa.material-theme-2.18.1
+[2018-12-20 10:51:06.175] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:51:06.178] [sharedprocess] [info] Successfully uninstalled extension: zhuangtongfa.material-theme-2.18.1
+[2018-12-20 10:51:06.367] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:51:06.395] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:51:08.170] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:51:08.197] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:51:08.224] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:51:08.225] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:51:08.247] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:51:08.257] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:51:08.259] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:51:08.260] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:51:08.261] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:51:08.397] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:52:24.388] [sharedprocess] [info] Installing extension: vsc-material-theme
+[2018-12-20 10:52:24.396] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-20 10:52:24.903] [sharedprocess] [info] Downloaded extension: vsc-material-theme /tmp/0c912b55-74ab-4bc1-b0bd-57ac570e3f79
+[2018-12-20 10:52:25.637] [sharedprocess] [info] Extracted extension to /home/john/.vscode-oss/extensions/.equinusocio.vsc-material-theme-2.6.2: equinusocio.vsc-material-theme-2.6.2
+[2018-12-20 10:52:25.637] [sharedprocess] [info] Renamed to /home/john/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.6.2
+[2018-12-20 10:52:25.637] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme-2.6.2
+[2018-12-20 10:52:25.644] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme
+[2018-12-20 10:52:25.772] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:52:25.783] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:52:27.778] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:52:27.804] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:52:27.812] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:52:27.825] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:52:27.842] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:52:27.843] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:52:27.844] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:52:27.846] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:52:27.854] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:52:28.050] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:56:02.983] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:56:03.007] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:56:03.026] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:56:03.030] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:56:03.047] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:56:03.062] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:56:03.064] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:56:03.066] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:56:03.067] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:56:03.285] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:59:15.783] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:59:15.792] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:59:15.792] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:59:15.841] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:59:15.866] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:59:15.894] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 10:59:15.916] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:59:15.918] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:59:15.920] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-20 10:59:16.092] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 11:04:16.104] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 11:09:16.116] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-20 11:14:16.129] [sharedprocess] [info] Scanned user extensions: 1
