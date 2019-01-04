@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20181116T230000Z
+DTEND:20181117T010000Z
+DTSTAMP:20181116T062344Z
+ORGANIZER;CN=Justin Hsueh:mailto:justinhsueh421@gmail.com
+UID:245CB8BE-77A5-4310-A631-2A6B904EB28A
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adobrota@ucsc.edu;X-NUM-GUESTS=0:mailto:adobrota@ucsc.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Justin Hsueh;X-NUM-GUESTS=0:mailto:justinhsueh421@gmail.com
+CREATED:20181116T062336Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nView your event at https://www.google.com/calendar/event?action=VIEW&
+ eid=XzY4cTNhZ3EyNzExNGFiOW42dDBqYWI5azZjb2owYmExNm9wajJiOWk4NHI0NGU5ZzZoMms
+ 0Y2hvODQgYWRvYnJvdGFAdWNzYy5lZHU&tok=MjQjanVzdGluaHN1ZWg0MjFAZ21haWwuY29tZW
+ EwZWU5Y2ZiNzM4ZmUzMWZhYTk2NjQ3ZWQyYTNhZWY4ZjNjZTA1ZQ&ctz=America%2FLos_Ange
+ les&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20181116T062343Z
+LOCATION:University Terrace\n369 Meder St\, Santa Cruz\, CA  95060\, United
+  States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Practice Session with Alex
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

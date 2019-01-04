@@ -1,0 +1,78 @@
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go4nnmsY/go-code-check 
+# _/home/john/go-workspace/src
+runtime.main_main·f: function main is undeclared in the main package
+
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go4nnmsY/go-code-check 
+# _/home/john/go-workspace/src
+runtime.main_main·f: function main is undeclared in the main package
+
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go vet ./...
+
+Installing 10 tools at /home/john/go-workspace/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  dlv
+  gocode-gomod
+  godef
+  godef-gomod
+  goreturns
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/ianthehat/godef SUCCEEDED
+Installing github.com/sqs/goreturns SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+Below tools are needed for the basic features of the Go extension.
+gocode
+gopkgs
+go-outline
+go-symbols
+dlv
+gocode-gomod
+godef
+godef-gomod
+goreturns
+golint
+/home/john/go-workspace/src/firstapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go4nnmsY/go-code-check firstapp
+# firstapp
+runtime.main_main·f: function main is undeclared in the main package
+
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go4nnmsY/go-code-check firstapp
+/home/john/go-workspace/src/firstapp/main.go:6: syntax error: unexpected newline, expecting comma or )
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go vet ./...
+/home/john/go-workspace/src/firstapp/main.go:6: syntax error: unexpected newline, expecting comma or )
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go4nnmsY/go-code-check firstapp
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go4nnmsY/go-code-check firstapp
+

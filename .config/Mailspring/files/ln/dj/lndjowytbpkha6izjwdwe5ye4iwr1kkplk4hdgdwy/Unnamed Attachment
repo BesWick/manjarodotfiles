@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20181111T010000Z
+DTEND:20181111T020000Z
+DTSTAMP:20181110T054547Z
+ORGANIZER;CN=Justin Hsueh:mailto:justinhsueh421@gmail.com
+UID:F1D1AA2C-1C5C-400A-AAAD-E2AA21A91A08
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adobrota@ucsc.edu;X-NUM-GUESTS=0:mailto:adobrota@ucsc.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Justin Hsueh;X-NUM-GUESTS=0:mailto:justinhsueh421@gmail.com
+CREATED:20181110T054545Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nView your event at https://www.google.com/calendar/event?action=VIEW&
+ eid=Xzhvb2s4Y2ExODRwNDZiOWg4Y3FrNmI5azYwbzQyYmExODUwazhiYTU2OTBrMmNoaDg0c2o
+ yZzlnNzAgYWRvYnJvdGFAdWNzYy5lZHU&tok=MjQjanVzdGluaHN1ZWg0MjFAZ21haWwuY29tNW
+ IxNTJmZDI3ZDliYTYwZjcyMzE2NmM1YWJiNWUwMzE4ZmQzM2ZmYg&ctz=America%2FLos_Ange
+ les&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20181110T054546Z
+LOCATION:OPERS - East Field House\n1156 High St\, Santa Cruz\, CA  95064\, 
+ United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Practice Session with Alex
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

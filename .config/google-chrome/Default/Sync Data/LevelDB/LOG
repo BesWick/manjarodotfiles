@@ -1,3 +1,3 @@
-2018/12/24-10:03:28.679 477 Reusing MANIFEST /home/john/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2018/12/24-10:03:28.679 477 Recovering log #3
-2018/12/24-10:03:28.686 477 Reusing old log /home/john/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2019/01/03-09:43:32.852 70c Reusing MANIFEST /home/john/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/01/03-09:43:32.852 70c Recovering log #3
+2019/01/03-09:43:32.858 70c Reusing old log /home/john/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 

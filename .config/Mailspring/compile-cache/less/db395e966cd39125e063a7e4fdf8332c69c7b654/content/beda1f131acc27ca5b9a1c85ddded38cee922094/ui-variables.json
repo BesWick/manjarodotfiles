@@ -1,0 +1,1 @@
+{"digest":"5b992ff3fe4fd5d293f8752be0e8cff783ec3a27","css":"/**\n * Colors\n */\n/**\n * Borders\n */\n","imports":[{"path":"static/base/ui-variables.less","digest":"a95f78aa1bc678e04a9da0f71fadb4a0ea190588"},{"path":"internal_packages/ui-taiga/styles/variables.less","digest":"adebe6d4ef6321d53927b74260249dc2b60a4239"}],"version":1}

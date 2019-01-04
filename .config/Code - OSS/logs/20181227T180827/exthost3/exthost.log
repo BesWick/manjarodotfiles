@@ -1,0 +1,18 @@
+[2018-12-27 18:08:28.715] [exthost] [info] extension host started
+[2018-12-27 18:08:28.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.735] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2018-12-27 18:08:28.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.739] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-12-27 18:08:28.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.756] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-12-27 18:08:28.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.853] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2018-12-27 18:08:28.859] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.859] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/eamodio.gitlens-9.1.0/dist/extension
+[2018-12-27 18:08:28.957] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.957] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-12-27 18:08:28.983] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:28.983] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2018-12-27 18:08:29.012] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc {"startup":true,"activationEvent":"*"}
+[2018-12-27 18:08:29.013] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/yummygum.city-lights-icon-vsc-1.1.3/out/src/extension
+[2018-12-27 18:08:29.062] [exthost] [info] eager extensions activated

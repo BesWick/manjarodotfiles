@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20181201T010000Z
+DTEND:20181201T030000Z
+DTSTAMP:20181130T161705Z
+ORGANIZER;CN=Justin Hsueh:mailto:justinhsueh421@gmail.com
+UID:AD10514B-C272-4540-B312-E86D520CF04D
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Justin Hsueh;X-NUM-GUESTS=0:mailto:justinhsueh421@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adobrota@ucsc.edu;X-NUM-GUESTS=0:mailto:adobrota@ucsc.edu
+CREATED:20181130T161704Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nView your event at https://www.google.com/calendar/event?action=VIEW&
+ eid=Xzg1MjMyYzFsNjRxNDRiYTM2OHJqNGI5azZrcTMwYmEyNmNvajRiYTU3MHI0OGQ5aTYxMWt
+ jYzFrOGcgYWRvYnJvdGFAdWNzYy5lZHU&tok=MjQjanVzdGluaHN1ZWg0MjFAZ21haWwuY29tNj
+ cxNDk5NzcyMDlkY2M1MTE1YmRkNWM3YzA0OTAyNzUzZGU4MjQxMg&ctz=America%2FLos_Ange
+ les&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20181130T161705Z
+LOCATION:University of California Santa Cruz - Rachel Carson College\n212 O
+ akes Rd\, Santa Cruz\, CA  95064\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Practice Session with Alex
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

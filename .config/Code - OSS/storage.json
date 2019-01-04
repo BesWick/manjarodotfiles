@@ -515,8 +515,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1058,7 +1057,8 @@
                 "label": "Ctrl+Shift+F"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D"
@@ -1188,36 +1188,72 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#263238",
+    "themeBackground": "#282a36",
+    "pickerWorkingDir": "/home/john/go-workspace/src",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/john/go-workspace/src/02-demo-app",
+            "file:///home/john/go-workspace/src/demos/03-custom-file-server",
+            "file:///home/john/Downloads/goappdemo/creating-web-applications-go-update",
+            "file:///home/john/go-workspace",
+            "file:///home/john/go-workspace/src",
+            "file:///home/john"
+        ],
+        "files2": []
+    },
     "windowsState": {
-        "openedWindows": [],
+        "openedWindows": [
+            {
+                "folderUri": {
+                    "$mid": 1,
+                    "fsPath": "/home/john/go-workspace",
+                    "external": "file:///home/john/go-workspace",
+                    "path": "/home/john/go-workspace",
+                    "scheme": "file"
+                },
+                "backupPath": "/home/john/.config/Code - OSS/Backups/422e24211905450bb57db7d5343e6105",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1296,
+                    "y": 37,
+                    "width": 1250,
+                    "height": 1038
+                }
+            },
+            {
+                "folderUri": {
+                    "$mid": 1,
+                    "fsPath": "/home/john/Downloads/goappdemo/creating-web-applications-go-update",
+                    "external": "file:///home/john/Downloads/goappdemo/creating-web-applications-go-update",
+                    "path": "/home/john/Downloads/goappdemo/creating-web-applications-go-update",
+                    "scheme": "file"
+                },
+                "backupPath": "/home/john/.config/Code - OSS/Backups/dfcae3c68a021e113771980b5ea1d782",
+                "uiState": {
+                    "mode": 1,
+                    "x": 302,
+                    "y": 148,
+                    "width": 1024,
+                    "height": 768
+                }
+            }
+        ],
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/john/go-workspace/src",
-                "external": "file:///home/john/go-workspace/src",
-                "path": "/home/john/go-workspace/src",
+                "fsPath": "/home/john/Downloads/goappdemo/creating-web-applications-go-update",
+                "external": "file:///home/john/Downloads/goappdemo/creating-web-applications-go-update",
+                "path": "/home/john/Downloads/goappdemo/creating-web-applications-go-update",
                 "scheme": "file"
             },
-            "backupPath": "/home/john/.config/Code - OSS/Backups/bd733edfd8d9156db4280e09279c8466",
+            "backupPath": "/home/john/.config/Code - OSS/Backups/dfcae3c68a021e113771980b5ea1d782",
             "uiState": {
                 "mode": 1,
-                "x": 1289,
-                "y": 21,
-                "width": 1250,
-                "height": 1038
+                "x": 302,
+                "y": 148,
+                "width": 1024,
+                "height": 768
             }
         }
-    },
-    "pickerWorkingDir": "/home/john/go-workspace",
-    "openedPathsList": {
-        "workspaces2": [
-            "file:///home/john/go-workspace/src"
-        ],
-        "files2": [
-            "file:///usr/share/conky/fontawesomeconky",
-            "file:///usr/sbin/conky",
-            "file:///home/john/.config/conky/conky.conf"
-        ]
     }
 }

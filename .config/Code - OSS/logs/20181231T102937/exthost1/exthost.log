@@ -1,0 +1,84 @@
+[2018-12-31 10:29:39.444] [exthost] [info] extension host started
+[2018-12-31 10:29:39.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.465] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2018-12-31 10:29:39.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.470] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-12-31 10:29:39.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.488] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-12-31 10:29:39.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.586] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2018-12-31 10:29:39.592] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.592] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/eamodio.gitlens-9.1.0/dist/extension
+[2018-12-31 10:29:39.696] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.696] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-12-31 10:29:39.723] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.723] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2018-12-31 10:29:39.755] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:29:39.755] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/yummygum.city-lights-icon-vsc-1.1.3/out/src/extension
+[2018-12-31 10:29:39.809] [exthost] [info] eager extensions activated
+[2018-12-31 10:30:00.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-12-31 10:30:00.679] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2018-12-31 10:30:12.529] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2018-12-31 10:30:12.529] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/ms-vscode.go-0.8.0/out/src/goMain
+[2018-12-31 10:50:35.381] [exthost] [info] extension host started
+[2018-12-31 10:50:35.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.405] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2018-12-31 10:50:35.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.409] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-12-31 10:50:35.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.426] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-12-31 10:50:35.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.520] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2018-12-31 10:50:35.525] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.525] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/eamodio.gitlens-9.1.0/dist/extension
+[2018-12-31 10:50:35.625] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.625] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-12-31 10:50:35.651] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.651] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2018-12-31 10:50:35.677] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc {"startup":true,"activationEvent":"*"}
+[2018-12-31 10:50:35.677] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/yummygum.city-lights-icon-vsc-1.1.3/out/src/extension
+[2018-12-31 10:50:35.719] [exthost] [info] eager extensions activated
+[2018-12-31 10:50:39.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-31 10:50:39.927] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2018-12-31 10:50:39.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-31 10:50:39.938] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2018-12-31 10:50:39.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-31 10:50:39.993] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2018-12-31 10:54:15.509] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2018-12-31 10:54:15.509] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/ms-vscode.go-0.8.0/out/src/goMain
+[2018-12-31 10:54:27.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-31 10:54:27.601] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2018-12-31 10:54:27.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-31 10:54:27.639] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/npm/dist/main
+[2018-12-31 10:54:43.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2018-12-31 10:54:43.599] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/markdown-language-features/dist/extension
+[2018-12-31 11:08:45.855] [exthost] [info] extension host started
+[2018-12-31 11:08:45.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:45.876] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2018-12-31 11:08:45.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:45.881] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2018-12-31 11:08:45.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:45.897] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2018-12-31 11:08:45.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:45.991] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2018-12-31 11:08:45.996] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:45.996] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/eamodio.gitlens-9.1.0/dist/extension
+[2018-12-31 11:08:46.096] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:46.096] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-12-31 11:08:46.122] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:46.122] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2018-12-31 11:08:46.147] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc {"startup":true,"activationEvent":"*"}
+[2018-12-31 11:08:46.147] [exthost] [info] ExtensionService#loadCommonJSModule /home/john/.vscode-oss/extensions/yummygum.city-lights-icon-vsc-1.1.3/out/src/extension
+[2018-12-31 11:08:46.189] [exthost] [info] eager extensions activated
+[2018-12-31 11:08:51.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-31 11:08:51.694] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2018-12-31 11:08:51.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-31 11:08:51.701] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2018-12-31 11:08:51.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-31 11:08:51.736] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2018-12-31 11:08:51.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-12-31 11:08:51.789] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/npm/dist/main
+[2018-12-31 11:08:52.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-31 11:08:52.102] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2018-12-31 11:08:54.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2018-12-31 11:08:54.137] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/markdown-language-features/dist/extension

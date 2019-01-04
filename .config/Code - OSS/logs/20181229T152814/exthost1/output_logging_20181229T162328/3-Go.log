@@ -1,0 +1,6 @@
+/home/john/go-workspace/src/firstapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src/firstapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goE48ylC/go-code-check firstapp
+

@@ -1,0 +1,198 @@
+/home/john/go-workspace>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-gopcOfJ7/go-code-check .
+# _/home/john/go-workspace
+runtime.main_main·f: function main is undeclared in the main package
+
+
+/home/john/go-workspace>Finished running tool: /usr/bin/go vet ./...
+/home/john/go-workspace/src/github.com/acroca/go-symbols/main.go:19: cannot find package "golang.org/x/tools/go/buildutil" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/main.go:6: cannot find package "github.com/derekparker/delve/cmd/dlv/cmds" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/main.go:7: cannot find package "github.com/derekparker/delve/pkg/version" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/main.go:8: cannot find package "github.com/sirupsen/logrus" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:15: cannot find package "github.com/derekparker/delve/pkg/config" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:16: cannot find package "github.com/derekparker/delve/pkg/goversion" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:17: cannot find package "github.com/derekparker/delve/pkg/logflags" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:18: cannot find package "github.com/derekparker/delve/pkg/terminal" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:20: cannot find package "github.com/derekparker/delve/service" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:21: cannot find package "github.com/derekparker/delve/service/api" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:22: cannot find package "github.com/derekparker/delve/service/rpc2" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:23: cannot find package "github.com/derekparker/delve/service/rpccommon" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/cmd/dlv/cmds/commands.go:24: cannot find package "github.com/spf13/cobra" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/config/config.go:11: cannot find package "gopkg.in/yaml.v2" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/dwarf/dwarfbuilder/info.go:8: cannot find package "github.com/derekparker/delve/pkg/dwarf/godwarf" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/dwarf/dwarfbuilder/loc.go:6: cannot find package "github.com/derekparker/delve/pkg/dwarf/op" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/dwarf/dwarfbuilder/info.go:9: cannot find package "github.com/derekparker/delve/pkg/dwarf/util" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/arch.go:6: cannot find package "github.com/derekparker/delve/pkg/dwarf/frame" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/bininfo.go:23: cannot find package "github.com/derekparker/delve/pkg/dwarf/line" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/bininfo.go:25: cannot find package "github.com/derekparker/delve/pkg/dwarf/reader" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/arch.go:8: cannot find package "golang.org/x/arch/x86/x86asm" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/core/core.go:9: cannot find package "github.com/derekparker/delve/pkg/proc" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/core/windows_amd64_minidump.go:6: cannot find package "github.com/derekparker/delve/pkg/proc/core/minidump" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/core/linux_amd64_core.go:13: cannot find package "github.com/derekparker/delve/pkg/proc/linutil" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/core/windows_amd64_minidump.go:7: cannot find package "github.com/derekparker/delve/pkg/proc/winutil" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/gdbserial/gdbserver.go:85: cannot find package "github.com/mattn/go-isatty" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/proc/native/proc_linux.go:18: cannot find package "golang.org/x/sys/unix" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/terminal/command.go:22: cannot find package "github.com/cosiner/argv" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/terminal/command.go:25: cannot find package "github.com/derekparker/delve/service/debugger" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/pkg/terminal/terminal.go:14: cannot find package "github.com/peterh/liner" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/service/debugger/debugger.go:19: cannot find package "github.com/derekparker/delve/pkg/proc/core" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/service/debugger/debugger.go:20: cannot find package "github.com/derekparker/delve/pkg/proc/gdbserial" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/service/debugger/debugger.go:21: cannot find package "github.com/derekparker/delve/pkg/proc/native" in any of:
+/home/john/go-workspace/src/github.com/derekparker/delve/service/rpccommon/server.go:24: cannot find package "github.com/derekparker/delve/service/rpc1" in any of:
+/home/john/go-workspace/src/github.com/ianthehat/godef/acme.go:11: cannot find package "9fans.net/go/acme" in any of:
+/home/john/go-workspace/src/github.com/ianthehat/godef/godef.go:24: cannot find package "golang.org/x/tools/go/ast/astutil" in any of:
+/home/john/go-workspace/src/github.com/ianthehat/godef/godef.go:25: cannot find package "golang.org/x/tools/go/packages" in any of:
+/home/john/go-workspace/src/github.com/ianthehat/godef/godef.go:26: cannot find package "golang.org/x/tools/go/types/typeutil" in any of:
+/home/john/go-workspace/src/github.com/karrick/godirwalk/dirent.go:7: cannot find package "github.com/pkg/errors" in any of:
+/home/john/go-workspace/src/github.com/karrick/godirwalk/examples/clean-empties/main.go:8: cannot find package "github.com/karrick/godirwalk" in any of:
+/home/john/go-workspace/src/github.com/mdempsky/gocode/client.go:17: cannot find package "github.com/mdempsky/gocode/internal/cache" in any of:
+/home/john/go-workspace/src/github.com/mdempsky/gocode/server.go:17: cannot find package "github.com/mdempsky/gocode/internal/gbimporter" in any of:
+/home/john/go-workspace/src/github.com/mdempsky/gocode/client.go:18: cannot find package "github.com/mdempsky/gocode/internal/suggest" in any of:
+/home/john/go-workspace/src/github.com/mdempsky/gocode/internal/cache/importer.go:15: cannot find package "golang.org/x/tools/go/gcexportdata" in any of:
+/home/john/go-workspace/src/github.com/mdempsky/gocode/internal/suggest/suggest.go:18: cannot find package "github.com/mdempsky/gocode/internal/lookdot" in any of:
+/home/john/go-workspace/src/github.com/rogpeppe/godef/adapt.go:20: cannot find package "github.com/rogpeppe/godef/go/ast" in any of:
+/home/john/go-workspace/src/github.com/rogpeppe/godef/godef.go:24: cannot find package "github.com/rogpeppe/godef/go/parser" in any of:
+/home/john/go-workspace/src/github.com/rogpeppe/godef/adapt.go:21: cannot find package "github.com/rogpeppe/godef/go/printer" in any of:
+/home/john/go-workspace/src/github.com/rogpeppe/godef/godef.go:25: cannot find package "github.com/rogpeppe/godef/go/token" in any of:
+/home/john/go-workspace/src/github.com/rogpeppe/godef/adapt.go:22: cannot find package "github.com/rogpeppe/godef/go/types" in any of:
+/home/john/go-workspace/src/github.com/rogpeppe/godef/go/ast/resolve.go:13: cannot find package "github.com/rogpeppe/godef/go/scanner" in any of:
+/home/john/go-workspace/src/github.com/sqs/goreturns/goreturns.go:23: cannot find package "github.com/sqs/goreturns/returns" in any of:
+/home/john/go-workspace/src/github.com/sqs/goreturns/goreturns.go:21: cannot find package "golang.org/x/tools/imports" in any of:
+/home/john/go-workspace/src/github.com/stamblerre/gocode/client.go:15: cannot find package "github.com/stamblerre/gocode/internal/suggest" in any of:
+/home/john/go-workspace/src/github.com/stamblerre/gocode/internal/suggest/suggest.go:15: cannot find package "github.com/stamblerre/gocode/internal/lookdot" in any of:
+/home/john/go-workspace/src/github.com/uudashr/gopkgs/cmd/gopkgs/main.go:13: cannot find package "github.com/uudashr/gopkgs" in any of:
+/home/john/go-workspace/src/golang.org/x/lint/golint/golint.go:19: cannot find package "golang.org/x/lint" in any of:
+/home/john/go-workspace/src/golang.org/x/net/html/node.go:8: cannot find package "golang.org/x/net/html/atom" in any of:
+/home/john/go-workspace/src/golang.org/x/net/html/charset/charset.go:19: cannot find package "golang.org/x/net/html" in any of:
+/home/john/go-workspace/src/golang.org/x/net/html/charset/charset.go:20: cannot find package "golang.org/x/text/encoding" in any of:
+/home/john/go-workspace/src/golang.org/x/net/html/charset/charset.go:21: cannot find package "golang.org/x/text/encoding/charmap" in any of:
+/home/john/go-workspace/src/golang.org/x/net/html/charset/charset.go:22: cannot find package "golang.org/x/text/encoding/htmlindex" in any of:
+/home/john/go-workspace/src/golang.org/x/net/html/charset/charset.go:23: cannot find package "golang.org/x/text/transform" in any of:
+/home/john/go-workspace/src/golang.org/x/net/http/httpguts/httplex.go:12: cannot find package "golang.org/x/net/idna" in any of:
+/home/john/go-workspace/src/golang.org/x/net/http2/frame.go:17: cannot find package "golang.org/x/net/http/httpguts" in any of:
+/home/john/go-workspace/src/golang.org/x/net/http2/frame.go:18: cannot find package "golang.org/x/net/http2/hpack" in any of:
+/home/john/go-workspace/src/golang.org/x/net/http2/h2c/h2c.go:27: cannot find package "golang.org/x/net/http2" in any of:
+/home/john/go-workspace/src/golang.org/x/net/http2/h2i/h2i.go:38: cannot find package "golang.org/x/crypto/ssh/terminal" in any of:
+/home/john/go-workspace/src/golang.org/x/net/icmp/interface.go:12: cannot find package "golang.org/x/net/internal/iana" in any of:
+/home/john/go-workspace/src/golang.org/x/net/icmp/ipv4.go:12: cannot find package "golang.org/x/net/internal/socket" in any of:
+/home/john/go-workspace/src/golang.org/x/net/icmp/endpoint.go:12: cannot find package "golang.org/x/net/ipv4" in any of:
+/home/john/go-workspace/src/golang.org/x/net/icmp/endpoint.go:13: cannot find package "golang.org/x/net/ipv6" in any of:
+/home/john/go-workspace/src/golang.org/x/net/idna/idna.go:23: cannot find package "golang.org/x/text/secure/bidirule" in any of:
+/home/john/go-workspace/src/golang.org/x/net/idna/idna.go:24: cannot find package "golang.org/x/text/unicode/bidi" in any of:
+/home/john/go-workspace/src/golang.org/x/net/idna/idna.go:25: cannot find package "golang.org/x/text/unicode/norm" in any of:
+/home/john/go-workspace/src/golang.org/x/net/internal/sockstest/server.go:13: cannot find package "golang.org/x/net/internal/nettest" in any of:
+/home/john/go-workspace/src/golang.org/x/net/internal/sockstest/server.go:14: cannot find package "golang.org/x/net/internal/socks" in any of:
+/home/john/go-workspace/src/golang.org/x/net/ipv4/dgramopt.go:10: cannot find package "golang.org/x/net/bpf" in any of:
+/home/john/go-workspace/src/golang.org/x/net/trace/histogram.go:17: cannot find package "golang.org/x/net/internal/timeseries" in any of:
+/home/john/go-workspace/src/golang.org/x/net/webdav/xml.go:35: cannot find package "golang.org/x/net/webdav/internal/xml" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/blog/blog.go:23: cannot find package "golang.org/x/tools/blog/atom" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/blog/blog.go:24: cannot find package "golang.org/x/tools/present" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/benchcmp/benchcmp.go:15: cannot find package "golang.org/x/tools/benchmark/parse" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/bundle/main.go:101: cannot find package "golang.org/x/tools/go/loader" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:36: cannot find package "golang.org/x/tools/go/callgraph" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:37: cannot find package "golang.org/x/tools/go/callgraph/cha" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:38: cannot find package "golang.org/x/tools/go/callgraph/rta" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:39: cannot find package "golang.org/x/tools/go/callgraph/static" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:41: cannot find package "golang.org/x/tools/go/pointer" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:42: cannot find package "golang.org/x/tools/go/ssa" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/callgraph/main.go:43: cannot find package "golang.org/x/tools/go/ssa/ssautil" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/cover/func.go:20: cannot find package "golang.org/x/tools/cover" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/eg/eg.go:19: cannot find package "golang.org/x/tools/refactor/eg" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/blog.go:18: cannot find package "golang.org/x/tools/blog" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/codewalk.go:32: cannot find package "golang.org/x/tools/godoc" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/main.go:40: cannot find package "golang.org/x/tools/godoc/analysis" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/handlers.go:24: cannot find package "golang.org/x/tools/godoc/env" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/blog.go:19: cannot find package "golang.org/x/tools/godoc/redirect" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/main.go:41: cannot find package "golang.org/x/tools/godoc/static" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/codewalk.go:33: cannot find package "golang.org/x/tools/godoc/vfs" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/main.go:43: cannot find package "golang.org/x/tools/godoc/vfs/gatefs" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/main.go:44: cannot find package "golang.org/x/tools/godoc/vfs/mapfs" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/main.go:45: cannot find package "golang.org/x/tools/godoc/vfs/zipfs" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/godoc/play.go:11: cannot find package "golang.org/x/tools/playground" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/golsp/main.go:15: cannot find package "golang.org/x/tools/internal/lsp/cmd" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/golsp/main.go:16: cannot find package "golang.org/x/tools/internal/tool" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/gomvpkg/main.go:16: cannot find package "golang.org/x/tools/refactor/rename" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/guru/callees.go:14: cannot find package "golang.org/x/tools/cmd/guru/serial" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/guru/implements.go:19: cannot find package "golang.org/x/tools/refactor/importgraph" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/present/play.go:18: cannot find package "golang.org/x/tools/playground/socket" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/cmd/ssadump/main.go:20: cannot find package "golang.org/x/tools/go/ssa/interp" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/analysistest/analysistest.go:18: cannot find package "golang.org/x/tools/go/analysis" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/analysistest/analysistest.go:19: cannot find package "golang.org/x/tools/go/analysis/internal/checker" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:17: cannot find package "golang.org/x/tools/go/analysis/multichecker" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:20: cannot find package "golang.org/x/tools/go/analysis/passes/asmdecl" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:21: cannot find package "golang.org/x/tools/go/analysis/passes/assign" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:22: cannot find package "golang.org/x/tools/go/analysis/passes/atomic" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:23: cannot find package "golang.org/x/tools/go/analysis/passes/bools" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:24: cannot find package "golang.org/x/tools/go/analysis/passes/buildtag" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:25: cannot find package "golang.org/x/tools/go/analysis/passes/cgocall" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:26: cannot find package "golang.org/x/tools/go/analysis/passes/composite" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:27: cannot find package "golang.org/x/tools/go/analysis/passes/copylock" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:28: cannot find package "golang.org/x/tools/go/analysis/passes/httpresponse" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:29: cannot find package "golang.org/x/tools/go/analysis/passes/loopclosure" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:30: cannot find package "golang.org/x/tools/go/analysis/passes/lostcancel" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:31: cannot find package "golang.org/x/tools/go/analysis/passes/nilfunc" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:32: cannot find package "golang.org/x/tools/go/analysis/passes/nilness" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:33: cannot find package "golang.org/x/tools/go/analysis/passes/printf" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:34: cannot find package "golang.org/x/tools/go/analysis/passes/shift" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:35: cannot find package "golang.org/x/tools/go/analysis/passes/stdmethods" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:36: cannot find package "golang.org/x/tools/go/analysis/passes/structtag" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:37: cannot find package "golang.org/x/tools/go/analysis/passes/tests" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:38: cannot find package "golang.org/x/tools/go/analysis/passes/unmarshal" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:39: cannot find package "golang.org/x/tools/go/analysis/passes/unreachable" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:40: cannot find package "golang.org/x/tools/go/analysis/passes/unsafeptr" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/cmd/vet/vet.go:41: cannot find package "golang.org/x/tools/go/analysis/passes/unusedresult" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/internal/checker/checker.go:26: cannot find package "golang.org/x/tools/go/analysis/internal/analysisflags" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/internal/facts/facts.go:51: cannot find package "golang.org/x/tools/go/types/objectpath" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/multichecker/multichecker.go:21: cannot find package "golang.org/x/tools/go/analysis/unitchecker" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/asmdecl/asmdecl.go:22: cannot find package "golang.org/x/tools/go/analysis/passes/internal/analysisutil" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/assign/assign.go:17: cannot find package "golang.org/x/tools/go/analysis/passes/inspect" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/assign/assign.go:19: cannot find package "golang.org/x/tools/go/ast/inspector" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/ctrlflow/ctrlflow.go:20: cannot find package "golang.org/x/tools/go/cfg" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/findcall/cmd/findcall/main.go:5: cannot find package "golang.org/x/tools/go/analysis/passes/findcall" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/findcall/cmd/findcall/main.go:6: cannot find package "golang.org/x/tools/go/analysis/singlechecker" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/lostcancel/lostcancel.go:15: cannot find package "golang.org/x/tools/go/analysis/passes/ctrlflow" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/nilness/nilness.go:16: cannot find package "golang.org/x/tools/go/analysis/passes/buildssa" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/passes/shadow/cmd/shadow/main.go:5: cannot find package "golang.org/x/tools/go/analysis/passes/shadow" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/analysis/unitchecker/unitchecker.go:52: cannot find package "golang.org/x/tools/go/analysis/internal/facts" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/gccgoexportdata/gccgoexportdata.go:27: cannot find package "golang.org/x/tools/go/internal/gccgoimporter" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/gcexportdata/gcexportdata.go:32: cannot find package "golang.org/x/tools/go/internal/gcimporter" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/loader/loader.go:25: cannot find package "golang.org/x/tools/go/internal/cgo" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/packages/golist.go:24: cannot find package "golang.org/x/tools/go/internal/packagesdriver" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/packages/golist.go:25: cannot find package "golang.org/x/tools/internal/gopathwalk" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/packages/golist.go:26: cannot find package "golang.org/x/tools/internal/semver" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/packages/packagestest/expect.go:14: cannot find package "golang.org/x/tools/go/expect" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/go/pointer/api.go:13: cannot find package "golang.org/x/tools/container/intsets" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/godoc/corpus.go:14: cannot find package "golang.org/x/tools/godoc/util" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/godoc/pres.go:13: cannot find package "golang.org/x/tools/godoc/vfs/httpfs" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/internal/gopathwalk/walk.go:20: cannot find package "golang.org/x/tools/internal/fastwalk" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/internal/lsp/server.go:14: cannot find package "golang.org/x/tools/internal/jsonrpc2" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/internal/lsp/position.go:11: cannot find package "golang.org/x/tools/internal/lsp/cache" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/internal/lsp/completion.go:13: cannot find package "golang.org/x/tools/internal/lsp/protocol" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/internal/lsp/completion.go:14: cannot find package "golang.org/x/tools/internal/lsp/source" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/internal/lsp/cmd/server.go:20: cannot find package "golang.org/x/tools/internal/lsp" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/playground/socket/socket.go:37: cannot find package "golang.org/x/net/websocket" in any of:
+/home/john/go-workspace/src/golang.org/x/tools/refactor/rename/check.go:16: cannot find package "golang.org/x/tools/refactor/satisfy" in any of:
+
+Installing 10 tools at /home/john/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  dlv
+  gocode-gomod
+  godef
+  godef-gomod
+  goreturns
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/ianthehat/godef SUCCEEDED
+Installing github.com/sqs/goreturns SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).

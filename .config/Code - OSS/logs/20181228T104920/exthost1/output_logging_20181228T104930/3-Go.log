@@ -1,0 +1,18 @@
+/home/john/go-workspace/src>Finished running tool: /home/john/go/bin/golint
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-godD9x2i/go-code-check .
+# _/home/john/go-workspace/src
+runtime.main_main·f: function main is undeclared in the main package
+
+
+/home/john/go-workspace/src>Finished running tool: /home/john/go/bin/golint
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-godD9x2i/go-code-check .
+# _/home/john/go-workspace/src
+runtime.main_main·f: function main is undeclared in the main package
+
+

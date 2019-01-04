@@ -1,0 +1,6 @@
+/home/john/go-workspace/src/demos/03-custom-file-server/src/github.com/lss/webapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/go-workspace/src/demos/03-custom-file-server/src/github.com/lss/webapp>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/go-workspace/src/demos/03-custom-file-server/src/github.com/lss/webapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goa1V7e4/go-code-check demos/03-custom-file-server/src/github.com/lss/webapp
+

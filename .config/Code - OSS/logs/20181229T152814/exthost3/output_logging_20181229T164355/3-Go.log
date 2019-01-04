@@ -1,0 +1,6 @@
+/home/john/Downloads/goappdemo/creating-web-applications-go-update/1-creating-web-applications-go-update-m1-exercise-files/demos/01-first-web-app/src/firstapp>Finished running tool: /home/john/go-workspace/bin/golint
+
+/home/john/Downloads/goappdemo/creating-web-applications-go-update/1-creating-web-applications-go-update-m1-exercise-files/demos/01-first-web-app/src/firstapp>Finished running tool: /usr/bin/go vet ./...
+
+/home/john/Downloads/goappdemo/creating-web-applications-go-update/1-creating-web-applications-go-update-m1-exercise-files/demos/01-first-web-app/src/firstapp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-gobXwtZE/go-code-check .
+
